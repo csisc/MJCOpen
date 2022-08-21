@@ -1,0 +1,322 @@
+Id,affiliation
+
+1,Nigeria
+2, Saudi Arabia; Sudan; Tunisia
+3, Indonesia
+4,Morocco
+5,Morocco
+6, Iran
+7,Morocco
+8,Morocco
+9,Bahrain
+10,Morocco
+11,Indonesia
+12,Morocco
+13, Morocco; Portugal
+14,Morocco;  Belgium
+15, Morocco
+16, Morocco
+17,Morocco
+18,Nigeria
+19,Indonesia; Japan
+20,Uzbekistan
+21,Morocco
+22,Iran
+23,Mauritania;  Morocco; Turkey
+24,Morocco
+25,Morocco
+26,Morocco
+27,Indonesia
+28, Morocco
+29,Indonesia
+30,Morocco
+31,Morocco
+32,Nigeria
+33,Morocco
+34,Morocco
+35,Morocco
+36,Morocco
+37,Morocco
+38,Morocco
+39,Morocco
+40,Algeria; United Arab Emirates; Morocco
+41,Morocco
+42,Morocco
+43,Turkey
+44, Indonesia
+45,Morocco
+46,Morocco
+47,Morocco
+48,Indonesia
+49,Morocco
+50,Nigeria
+51,Morocco
+52,Indonesia
+53,Cameroon
+54,Indonesia
+55, Indonesia
+56,Morocco
+57,Morocco
+58,Palestine; Morocco; Qatar 
+59,Indonesia
+60,Algeria; Morocco
+61, Morocco
+62,Qatar
+63,Morocco
+64,India
+65,Iraq
+66,Viet Nam
+67,Algeria; United Arab Emirates; Morocco
+68,Morocco
+69,Bulgaria; Morocco
+70,Morocco
+71,Morocco
+72,Morocco
+73,Morocco
+74,Morocco
+75,Morocco
+76,Nigeria; 
+77,Morocco
+78,Morocco; Bulgaria
+79,Morocco
+80,Morocco
+81,Morocco
+82,Morocco
+83,United States; Yunnan; China
+84, Egypt
+85,Morocco
+86,Morocco; United Arab Emirates; Indonesia; Palestine
+87,Morocco
+88,Morocco
+89,Morocco
+90,Bulgaria; Morocco
+91,Morocco
+92,Morocco
+93,Morocco
+94,Morocco
+95,Saudi Arabia; Tunisia
+96,Morocco
+97,Bulgaria; Morocco
+98,Egypt
+99,Qatar
+100,Nigeria
+101,Morocco
+102,Iran
+103,Iran
+104,Libyan Arab Jamahiriya;  Saudi Arabia;  Morocco; Qatar
+105,Morocco
+106,Kosovo
+107,Morocco; Tunisia
+108,Morocco
+109,Morocco
+110,Morocco
+111,Morocco
+112,Indonesia
+113,Indonesia
+114,Morocco
+115,Morocco; Finland
+116,Indonesia
+117,Indonesia
+118,Indonesia
+119,Morocco; France;  Tunisia
+120,Morocco
+121, Iran
+122,Morocco
+123,Turkey
+124,Nigeria
+125,Morocco
+126,Algeria; Morocco
+127,Palestine; Qatar
+128,Iran
+129,Morocco
+130,Morocco
+131,Morocco
+132,Morocco
+133,Iraq
+134,Russian Federation
+135,Morocco
+136,Morocco
+137,Morocco
+138,Iran
+139,Morocco
+140,Morocco
+141,Morocco
+142,Morocco;France
+143,Syrian Arab Republic
+144,Morocco;France
+145,Morocco
+146,Morocco; United Kingdom; Pakistan
+147,Morocco
+148,Morocco
+149,United Arab Emirates
+150,Morocco
+151,Morocco
+152,Morocco
+153,Morocco
+154,Morocco
+155,Saudi Arabia
+156,Morocco
+157, India
+158,Indonesia
+159,Indonesia
+160,Indonesia
+161,Indonesia
+162,Indonesia
+163,Indonesia
+164,Indonesia
+165,Indonesia
+166,Malaysia
+167,Indonesia
+168,Indonesia
+169,Indonesia
+170,Indonesia
+171,Morocco
+172,Morocco; France
+173,Algeria; Morocco; France
+174,Morocco
+175,Morocco
+176,Morocco
+177,Syria
+178,Morocco
+179,Russian Federation
+180,Morocco
+181,Morocco
+182,Morocco
+183,Morocco
+184,Morocco
+185,Saudi Arabia
+186,Morocco
+187,Morocco
+188,Morocco
+189,Morocco
+190,Morocco
+191,Morocco
+192,Morocco
+193,Morocco
+194,Morocco
+195,Morocco;France
+196,Morocco;France
+197,Morocco
+198,Morocco
+199,Morocco;France
+200,Nigeria
+201,Palestine; Morocco 
+202,Morocco; France
+203,Morocco
+204,Morocco
+205,Morocco
+206,Malaysia; China
+207,Palestine; Morocco; India
+208,Iran
+209,Algeria; Morocco
+210,Morocco
+211,Nigeria
+212,Morocco
+213,Morocco
+214,Morocco; Yemen
+215,Morocco
+216,Russian Federation
+217,Nigeria
+218,Morocco
+219,Morocco
+220,Morocco
+221,Morocco
+222, Morocco
+223,Morocco
+224,Morocco
+225,Morocco
+226,Morocco
+227,Morocco
+228,Morocco
+229,Pakistan
+230,Morocco
+231,Morocco
+232,Indonesia
+233,Nigeria
+234,Iraq; Iraq
+235,Morocco
+236, Iran;Turkey
+237,Nigeria
+238,Morocco
+239,Morocco
+240,Morocco; France
+241,Algeria
+242,Palestine; Palestine
+243,Morocco
+244,Morocco
+245,Iran
+246,Nigeria
+247,Morocco
+248,Morocco
+249,Iran
+250,Turkey
+251,Morocco
+252,Morocco
+253,Morocco
+254,Nigeria
+255,India
+256,Morocco
+257,Russian Federation
+258,Morocco
+259,Morocco
+260,Iran
+261,Palestine
+262,Nigeria; South Africa
+263, India
+264,India
+265,Morocco
+266,Ghana
+267,Nigeria
+268,Morocco
+269,India; Saudi Arabia
+270,Morocco
+271,Saudi Arabia
+272,Algeria; Morocco
+273,Morocco; United Arab Emirates; Indonesia; Palestine
+274,Morocco
+275,Tunisia
+276,Iran
+277,Morocco
+278,Morocco
+279,Jordan
+280,Morocco
+281,Morocco
+282,Morocco
+283,Morocco
+284,Morocco
+285,Mexico
+286,Yemen; Morocco
+287,Iraq
+288,Libyan Arab Jamahiriya; Germany
+289,Morocco
+290,Brazil
+291,Algeria
+292,Morocco
+293,Morocco
+294,Morocco; France
+295,Algeria; Morocco; Saudi Arabia
+296,Saudi Arabia; Sudan; Canada
+297,Cameroon; Romania; United States; Morocco
+298,Saudi Arabia
+299,Iran
+300,Morocco
+301,Morocco
+302,Brazil
+303,Morocco
+304,Morocco
+305,Morocco
+306,Nigeria
+307,Morocco
+308,Turkey
+309,Nigeria
+310,Egypt
+311,Algeria
+312,Morocco; France
+313,Nigeria
+314,Pakistan
+315,Algeria
+316,Morocco
+317,Tunisia
+318,Nigeria
+319, Iran
+320, Algeria;  Saudi Arabia;  France; Ukraine
